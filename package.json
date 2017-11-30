@@ -1,0 +1,26 @@
+{
+  "name": "Readlist-Server",
+  "description": "The server of readlist",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "aws-sdk": "^2.2.19",
+    "bcrypt": "0.8.*",
+    "body-parser": "1.14.*",
+    "connect": "3.4.*",
+    "express": "3.x",
+    "jwt-simple": "0.3.*",
+    "moment": "2.10.*",
+    "mongoose": "4.2.*",
+    "mongoose-acl": "^0.2.3",
+    "morgan": "1.6.*",
+    "scraperjs": "1.0.*",
+    "sendgrid": "^2.0.0",
+    "passport" : "~0.1.17",
+    "passport-local" : "~0.1.6",
+    "passport-facebook" : "~1.0.2",
+    "passport-twitter" : "~1.0.2",
+    "passport-google-oauth" : "~0.1.5",
+    "bcrypt-nodejs" : "latest"
+  }
+}
